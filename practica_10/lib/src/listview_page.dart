@@ -36,7 +36,7 @@ class ListaPage extends StatelessWidget {
             leading: CircleAvatar(
               radius: 22,
               backgroundImage: NetworkImage(
-                  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdq0ivXCrWNdGDiksF2P1-IzsFddHXyoXXGG7UysrUmqwkuaBYBxc0tFRQ&s=10'
+                  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdq0ivXCrWNdGDiksF2P1-IzsFddHXyoXXGG7UysrUmqwkuaBYBxc0tFRQ&s=1066'
                 )
               ),
               trailing: Icon(Icons.arrow_right),
